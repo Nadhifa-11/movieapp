@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_member">New Member?</string>
+    <string name="create_account">Create Account</string>
+    <string name="get_strated">Get Strated</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_out">Log Out</string>
+    <string name="information">Information</string>
+    <string name="nadhifa_ashlahani">Nadhifa Ashlahani</string>
+    <string name="my_favortie">My Favortie</string>
+    <string name="like">Like</string>
+    <string name="offline">Offline</string>
+</resources>
